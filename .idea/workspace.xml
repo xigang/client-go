@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fab7b8b-c570-4d33-9f50-f6c867a16141" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/tools/cache/reflector.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/cache/reflector.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../../go1.21.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="2ZYrelbAzRmrLbepq2sNRoB92d4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="331" y="-1047" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1702611947849">
+      <screen x="-413" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="331" y="-1047" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1032/-413.-1415.2560.1415@-413.-1415.2560.1415" timestamp="1702611947849" />
+    <state x="376" y="-1072" key="SettingsEditor" timestamp="1702620961149">
+      <screen x="-413" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="376" y="-1072" key="SettingsEditor/0.25.1792.1032/-413.-1415.2560.1415@-413.-1415.2560.1415" timestamp="1702620961149" />
+    <state x="567" y="-945" width="600" height="474" key="find.popup" timestamp="1702631510726">
+      <screen x="-413" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="567" y="-945" width="600" height="474" key="find.popup/0.25.1792.1032/-413.-1415.2560.1415@-413.-1415.2560.1415" timestamp="1702631510726" />
+  </component>
+</project>
